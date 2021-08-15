@@ -1,0 +1,22 @@
+{
+  "name": "match_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rylee816/match_game.git"
+  },
+  "author": "Randy Riley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rylee816/match_game/issues"
+  },
+  "homepage": "https://github.com/rylee816/match_game#readme",
+  "dependencies": {
+    "netlify-cli": "^6.3.5"
+  }
+}
